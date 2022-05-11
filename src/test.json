@@ -1,0 +1,757 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 51,
+  "items": [
+      {
+          "kind": "books#volume",
+          "id": "JA0pV1KVG4cC",
+          "etag": "QxLqnDZJfbQ",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/JA0pV1KVG4cC",
+          "volumeInfo": {
+              "title": "Software Engineering Handbook",
+              "authors": [
+                  "Jessica Keyes"
+              ],
+              "publisher": "CRC Press",
+              "publishedDate": "2002-12-23",
+              "description": "Unfortunately, much of what has been written about software engineering comes from an academic perspective which does not always address the everyday concerns that software developers and managers face. With decreasing software budgets and increasing demands from users and senior management, technology directors need a complete guide to the subject",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781420031416"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1420031414"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": true
+              },
+              "pageCount": 896,
+              "printType": "BOOK",
+              "categories": [
+                  "Computers"
+              ],
+              "averageRating": 4.5,
+              "ratingsCount": 2,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "1.5.2.0.preview.3",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=JA0pV1KVG4cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=JA0pV1KVG4cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.ru/books?id=JA0pV1KVG4cC&pg=PA557&dq=null+inauthor:keyes&hl=&cd=1&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=JA0pV1KVG4cC&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JA0pV1KVG4cC"
+          },
+          "saleInfo": {
+              "country": "RU",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 21283.21,
+                  "currencyCode": "RUB"
+              },
+              "retailPrice": {
+                  "amount": 21283.21,
+                  "currencyCode": "RUB"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=JA0pV1KVG4cC&rdid=book-JA0pV1KVG4cC&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 21283210000,
+                          "currencyCode": "RUB"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 21283210000,
+                          "currencyCode": "RUB"
+                      }
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "RU",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.ru/books/download/Software_Engineering_Handbook-sample-epub.acsm?id=JA0pV1KVG4cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.ru/books/download/Software_Engineering_Handbook-sample-pdf.acsm?id=JA0pV1KVG4cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=JA0pV1KVG4cC&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "The search input message must have at least one field (as defined in the data dictionary) that is not <b>null</b>. This field is used to create the search asset message. The asset status message from the DBMS process is accepted and translated&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "etRQAAAAMAAJ",
+          "etag": "qyxRJjB4GsU",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/etRQAAAAMAAJ",
+          "volumeInfo": {
+              "title": "Datacasting",
+              "subtitle": "How to Stream Databases Over the Internet",
+              "authors": [
+                  "Jessica Keyes"
+              ],
+              "publisher": "Computing McGraw-Hill",
+              "publishedDate": "1998",
+              "description": "The hot new topic of the year is the marriage of Web technology and databases. This overview book shows how to port database information onto the Web via step-by-step examples and easy-to-understand tutorials. The book covers products from all major vendors: Oracle, Informix, Sybase, IBM, and Microsoft.",
+              "industryIdentifiers": [
+                  {
+                      "type": "OTHER",
+                      "identifier": "UOM:39015039919934"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 555,
+              "printType": "BOOK",
+              "categories": [
+                  "Computers"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.3.2.0.preview.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=etRQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=etRQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.ru/books?id=etRQAAAAMAAJ&q=null+inauthor:keyes&dq=null+inauthor:keyes&hl=&cd=2&source=gbs_api",
+              "infoLink": "http://books.google.ru/books?id=etRQAAAAMAAJ&dq=null+inauthor:keyes&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Datacasting.html?hl=&id=etRQAAAAMAAJ"
+          },
+          "saleInfo": {
+              "country": "RU",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "RU",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=etRQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Employee &quot; ( &quot; ID &quot; &quot; int &quot; NOT <b>NULL</b> , &quot; FirstName &quot; varchar ( 30 ) NOT <b>NULL</b> “ LastName &quot; &quot; varchar ( 30 ) NOT <b>NULL</b> &quot; Name &quot; varchar ( 60 ) NOT <b>NULL</b> , &quot; Title &quot; varchar ( 20 ) NOT <b>NULL</b>&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "R7lOAQAAIAAJ",
+          "etag": "gg6Mn5nqbU4",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/R7lOAQAAIAAJ",
+          "volumeInfo": {
+              "title": "Reports of Cases Argued and Determined in the Court of Appeals of the State of New York",
+              "subtitle": "With Notes, References, and an Index",
+              "authors": [
+                  "Emerson W. Keyes"
+              ],
+              "publisher": "BoD – Books on Demand",
+              "publishedDate": "1855",
+              "description": "Reprint of the original, first published in 1867.",
+              "industryIdentifiers": [
+                  {
+                      "type": "OTHER",
+                      "identifier": "UCAL:B5028064"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 628,
+              "printType": "BOOK",
+              "categories": [
+                  "Fiction"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.2.2.0.full.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=R7lOAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=R7lOAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.ru/books?id=R7lOAQAAIAAJ&pg=PA230&dq=null+inauthor:keyes&hl=&cd=3&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=R7lOAQAAIAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=R7lOAQAAIAAJ"
+          },
+          "saleInfo": {
+              "country": "RU",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=R7lOAQAAIAAJ&rdid=book-R7lOAQAAIAAJ&rdot=1&source=gbs_api"
+          },
+          "accessInfo": {
+              "country": "RU",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false,
+                  "downloadLink": "http://books.google.ru/books/download/Reports_of_Cases_Argued_and_Determined_i.epub?id=R7lOAQAAIAAJ&hl=&output=epub&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "downloadLink": "http://books.google.ru/books/download/Reports_of_Cases_Argued_and_Determined_i.pdf?id=R7lOAQAAIAAJ&hl=&output=pdf&sig=ACfU3U2qVVk2AGSLeXpRAGo161Z2BvEEKw&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=R7lOAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "... it shall not be lawful for the party convicted of adultery to remarry any person whatsoever ; and that every such remarriage shall be <b>null</b> and void ; but that the other party may make and complete another marriage in like manner as&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "KnmkAwAAQBAJ",
+          "etag": "l5Bdf7qf0SE",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/KnmkAwAAQBAJ",
+          "volumeInfo": {
+              "title": "How Einstein got Relativity Wrong",
+              "authors": [
+                  "John Keyes"
+              ],
+              "publisher": "Lulu.com",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781105619427"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1105619427"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "printType": "BOOK",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=KnmkAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=KnmkAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.ru/books?id=KnmkAwAAQBAJ&pg=PA34&dq=null+inauthor:keyes&hl=&cd=4&source=gbs_api",
+              "infoLink": "http://books.google.ru/books?id=KnmkAwAAQBAJ&dq=null+inauthor:keyes&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/How_Einstein_got_Relativity_Wrong.html?hl=&id=KnmkAwAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "RU",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "RU",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=KnmkAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "As a recap: Michelson and Morley performed repeated experiments to find an aether wind, but did so on Earth, producing <b>null</b> results. Then along came George FitzGerald. In 1889 he published a short paper &quot;The Ether and the Earth&#39;s&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "d4hQAAAAYAAJ",
+          "etag": "NTLWYx57fhg",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/d4hQAAAAYAAJ",
+          "volumeInfo": {
+              "title": "The Code of Alabama. 1876",
+              "authors": [
+                  "Wade Keyes"
+              ],
+              "publishedDate": "1877",
+              "industryIdentifiers": [
+                  {
+                      "type": "OTHER",
+                      "identifier": "NYPL:33433001249683"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 1320,
+              "printType": "BOOK",
+              "categories": [
+                  "Alabama"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.5.6.0.full.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=d4hQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=d4hQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.ru/books?id=d4hQAAAAYAAJ&pg=PA247&dq=null+inauthor:keyes&hl=&cd=5&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=d4hQAAAAYAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=d4hQAAAAYAAJ"
+          },
+          "saleInfo": {
+              "country": "RU",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=d4hQAAAAYAAJ&rdid=book-d4hQAAAAYAAJ&rdot=1&source=gbs_api"
+          },
+          "accessInfo": {
+              "country": "RU",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false,
+                  "downloadLink": "http://books.google.ru/books/download/The_Code_of_Alabama_1876.epub?id=d4hQAAAAYAAJ&hl=&output=epub&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "downloadLink": "http://books.google.ru/books/download/The_Code_of_Alabama_1876.pdf?id=d4hQAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1xszMH30EAg3Rg-J7prR-38IbpcQ&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=d4hQAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "... or whereby any certificate of election is sought to be inquired into or questioned , save as may be specially and specifically enumerated and set down by statute as aforesaid , shall be <b>null</b> and void , and shall not be enforced by&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "qrpOAQAAIAAJ",
+          "etag": "Dy7xc/JXv6c",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/qrpOAQAAIAAJ",
+          "volumeInfo": {
+              "title": "Reports of cases argued and determined in the Court of Appeals of the state of New York",
+              "authors": [
+                  "Emerson Willard Keyes"
+              ],
+              "publishedDate": "1859",
+              "description": "This is a reproduction of the original artefact. Generally these books are created from careful scans of the original. This allows us to preserve the book accurately and present it in the way the author intended. Since the original versions are generally quite old, there may occasionally be certain imperfections within these reproductions. We're happy to make these classics available again for future generations to enjoy!",
+              "industryIdentifiers": [
+                  {
+                      "type": "OTHER",
+                      "identifier": "UCAL:B5028071"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 642,
+              "printType": "BOOK",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.2.2.0.full.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=qrpOAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=qrpOAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.ru/books?id=qrpOAQAAIAAJ&pg=PA155&dq=null+inauthor:keyes&hl=&cd=6&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=qrpOAQAAIAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qrpOAQAAIAAJ"
+          },
+          "saleInfo": {
+              "country": "RU",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=qrpOAQAAIAAJ&rdid=book-qrpOAQAAIAAJ&rdot=1&source=gbs_api"
+          },
+          "accessInfo": {
+              "country": "RU",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false,
+                  "downloadLink": "http://books.google.ru/books/download/Reports_of_cases_argued_and_determined_i.epub?id=qrpOAQAAIAAJ&hl=&output=epub&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "downloadLink": "http://books.google.ru/books/download/Reports_of_cases_argued_and_determined_i.pdf?id=qrpOAQAAIAAJ&hl=&output=pdf&sig=ACfU3U02UW4FfdlxJSNz0E3DBLIiF9e_iA&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=qrpOAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "An action to have the act of a Board of Supervisors , in erecting a new town , declared <b>null</b> and void , and to restrain proceedings for its organization , cannot be maintained by persons having no other interest than one common to all&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "CwMFk2svdO8C",
+          "etag": "3nr62RttoNw",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/CwMFk2svdO8C",
+          "volumeInfo": {
+              "title": "Jurisdiction in International Litigation",
+              "authors": [
+                  "Mary Keyes"
+              ],
+              "publisher": "Federation Press",
+              "publishedDate": "2005",
+              "description": "Transport and communications technologies have made international disputes common, and a frequent practical issue is which country or countries have jurisdiction to resolve the dispute. Existing literature on private international law tends to emphasize choice of law rather than jurisdiction. Cases tend to show that the practical significance of Jurisdiction has yet to be appreciated. This groundbreaking book fills in these gaps and offers a critical analysis of the principles and the theoretical foundations applied to resolve private international jurisdictional disputes and of the manner in which those principles are applied in practice by: Describing the context in which international jurisdiction disputes are determined Explaining and critically analysing the principles of jurisdiction Explaining and critically analysing the manner in which the principles are applied Identifying the interests which motivate principles and the courts' application of the principles Recommending reforms to the principles by demonstrating that the existing principles of jurisdiction are flawed, and ought to be reformed by taking into account the law's objectives, defined by relevance to state and private interests.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1862875677"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781862875678"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 305,
+              "printType": "BOOK",
+              "categories": [
+                  "Conflict of laws"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.1.5.0.preview.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=CwMFk2svdO8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=CwMFk2svdO8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.ru/books?id=CwMFk2svdO8C&pg=PA243&dq=null+inauthor:keyes&hl=&cd=7&source=gbs_api",
+              "infoLink": "http://books.google.ru/books?id=CwMFk2svdO8C&dq=null+inauthor:keyes&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Jurisdiction_in_International_Litigation.html?hl=&id=CwMFk2svdO8C"
+          },
+          "saleInfo": {
+              "country": "RU",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "RU",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.ru/books/download/Jurisdiction_in_International_Litigation-sample-pdf.acsm?id=CwMFk2svdO8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=CwMFk2svdO8C&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "The basic scheme of the convention is that the exclusive contractual choice132 of a court gives it jurisdiction , 133 but not subject matter jurisdiction , 134 unless the agreement is &#39; <b>null</b> and void &#39; under the law of the State&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "08EcCAAAQBAJ",
+          "etag": "F/MwByJZZ2s",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/08EcCAAAQBAJ",
+          "volumeInfo": {
+              "title": "Domain Decomposition Methods in Scientific and Engineering Computing",
+              "subtitle": "Proceedings of the Seventh International Conference on Domain Decomposition, October 27-30, 1993, the Pennsylvania State University",
+              "authors": [
+                  "David E. Keyes",
+                  "Jinchao Xu"
+              ],
+              "publisher": "American Mathematical Soc.",
+              "publishedDate": "1994",
+              "description": "This book contains proceedings from the Seventh International Conference on Domain Decomposition Methods, held at Pennsylvania State University in October 1993. The term ``domain decomposition'' has for nearly a decade been associated with the partly iterative, partly direct algorithms explored in the proceedings of this conference. Noteworthy trends in the current volume include progress in dealing with so-called ``bad parameters'' in elliptic partial differential equation problems, as well as developments in partial differential equations outside of the elliptically-dominated framework. Also described here are convergence and complexity results for novel discretizations, which bring with them new challenges in the derivation of appropriate operators for coarsened spaces. Implementations and architectural considerations are discussed, as well as partitioning tools and environments. In addition, the book describes a wide array of applications, from semiconductor device simulation to structural mechanics to aerodynamics. Presenting many of the latest results in the field, this book offers readers an up-to-date guide to the many facets of the theory and practice of domain decomposition.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9780821851715"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "0821851713"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 546,
+              "printType": "BOOK",
+              "categories": [
+                  "Mathematics"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.1.0.0.preview.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=08EcCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=08EcCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.ru/books?id=08EcCAAAQBAJ&pg=PA143&dq=null+inauthor:keyes&hl=&cd=8&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=08EcCAAAQBAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=08EcCAAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "RU",
+              "saleability": "FOR_SALE",
+              "isEbook": true,
+              "listPrice": {
+                  "amount": 6826,
+                  "currencyCode": "RUB"
+              },
+              "retailPrice": {
+                  "amount": 6826,
+                  "currencyCode": "RUB"
+              },
+              "buyLink": "https://play.google.com/store/books/details?id=08EcCAAAQBAJ&rdid=book-08EcCAAAQBAJ&rdot=1&source=gbs_api",
+              "offers": [
+                  {
+                      "finskyOfferType": 1,
+                      "listPrice": {
+                          "amountInMicros": 6826000000,
+                          "currencyCode": "RUB"
+                      },
+                      "retailPrice": {
+                          "amountInMicros": 6826000000,
+                          "currencyCode": "RUB"
+                      }
+                  }
+              ]
+          },
+          "accessInfo": {
+              "country": "RU",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.ru/books/download/Domain_Decomposition_Methods_in_Scientif-sample-pdf.acsm?id=08EcCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=08EcCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "We apply this preconditioner to both sides of the equation (Le – eLd)[v] = f for a € Qinner to obtain v(x) – u(x) = F(x), where F = Anne, [f], and u is an element of the <b>null</b> space of (Le – eLd) that satisfies the boundary conditions&nbsp;..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "7PicAAAAMAAJ",
+          "etag": "yUQaHaOikeA",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/7PicAAAAMAAJ",
+          "volumeInfo": {
+              "title": "Social Functioning and Social Well-being",
+              "subtitle": "Studies of the Social Nature of Personal Wellness",
+              "authors": [
+                  "Corey Lee Michael Keyes"
+              ],
+              "publishedDate": "1995",
+              "industryIdentifiers": [
+                  {
+                      "type": "OTHER",
+                      "identifier": "WISC:89056024227"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 570,
+              "printType": "BOOK",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.2.2.0.preview.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=7PicAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=7PicAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.ru/books?id=7PicAAAAMAAJ&q=null+inauthor:keyes&dq=null+inauthor:keyes&hl=&cd=9&source=gbs_api",
+              "infoLink": "http://books.google.ru/books?id=7PicAAAAMAAJ&dq=null+inauthor:keyes&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Social_Functioning_and_Social_Well_being.html?hl=&id=7PicAAAAMAAJ"
+          },
+          "saleInfo": {
+              "country": "RU",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "RU",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=7PicAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "To specify a better model of instruments , model 4 tests the <b>null</b> that the residual of recent social involvement and the residual of social well - being do not correlate ( see Figure 3.2d ) . That is , the <b>null</b> is y 12 = 0."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "b8NOAQAAIAAJ",
+          "etag": "iZd4tlW8neE",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/b8NOAQAAIAAJ",
+          "volumeInfo": {
+              "title": "Reports of Cases Argued and Determined in the Court of Appeals of the State of New York",
+              "subtitle": "With Notes, References, and an Index, Volume 3",
+              "authors": [
+                  "Emerson Willard Keyes",
+                  "New York (State) Court of Appeals"
+              ],
+              "publisher": "Palala Press",
+              "publishedDate": "1867",
+              "description": "This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it. This work was reproduced from the original artifact, and remains as true to the original work as possible. Therefore, you will see the original copyright references, library stamps (as most of these works have been housed in our most important libraries around the world), and other notations in the work. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.As a reproduction of a historical artifact, this work may contain missing or blurred pages, poor pictures, errant marks, etc. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
+              "industryIdentifiers": [
+                  {
+                      "type": "OTHER",
+                      "identifier": "UCAL:B5028088"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 728,
+              "printType": "BOOK",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "1.3.3.0.full.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=b8NOAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=b8NOAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.ru/books?id=b8NOAQAAIAAJ&pg=PA692&dq=null+inauthor:keyes&hl=&cd=10&source=gbs_api",
+              "infoLink": "https://play.google.com/store/books/details?id=b8NOAQAAIAAJ&source=gbs_api",
+              "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b8NOAQAAIAAJ"
+          },
+          "saleInfo": {
+              "country": "RU",
+              "saleability": "FREE",
+              "isEbook": true,
+              "buyLink": "https://play.google.com/store/books/details?id=b8NOAQAAIAAJ&rdid=book-b8NOAQAAIAAJ&rdot=1&source=gbs_api"
+          },
+          "accessInfo": {
+              "country": "RU",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": true,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false,
+                  "downloadLink": "http://books.google.ru/books/download/Reports_of_Cases_Argued_and_Determined_i.epub?id=b8NOAQAAIAAJ&hl=&output=epub&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "downloadLink": "http://books.google.ru/books/download/Reports_of_Cases_Argued_and_Determined_i.pdf?id=b8NOAQAAIAAJ&hl=&output=pdf&sig=ACfU3U0nlB7EQpDSNoXkTE4sh691NPT4VA&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=b8NOAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+              "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Id . A statute declaring a private stream , on which riparian owners have vested interests , a public highway , without providing compensation to the owners , &amp; c . , is <b>null</b> and void . ld . NEGLIGENCE . OF RAILROAD COMPANY ."
+          }
+      }
+  ]
+}
