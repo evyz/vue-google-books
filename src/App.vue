@@ -45,7 +45,7 @@ export default {
     };
   },
   methods: {
-    call:async  function(){
+    call:async function(){
       await parse("https://lenta.ru/rss").then(res => {
       let arr = []
       let length = 0
@@ -65,6 +65,9 @@ export default {
       e.preventDefault()
     }
   },
+  mounted(){
+    this.call()  
+  }
 
 }
 </script>
