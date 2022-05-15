@@ -7,56 +7,56 @@
   <div class="selectedbook" v-if="item?.volumeInfo?.title">
     <div class="innerSelected"> 
       <button  v-on:click="setItem(null)"> Закрыть</button>
+      <img :src="item?.enclosures[0]?.url" />
       <description>
-        {{item?.volumeInfo.description}}
+        {{item?.content?.description}}
       </description>
-    <img :src="item?.volumeInfo?.imageLinks?.smallThumbnail " />
-      <h3>{{item?.volumeInfo?.title}}</h3>
-      <author v-for="category in item?.volumeInfo?.categories" :key="category">{{category}}</author>
-      <span v-for="author in item?.volumeInfo?.authors" :key="author">
-        <li>{{author}}</li>
-      </span>
+      <h3>{{item?.content?.title}}</h3>
     </div>
   </div>
 
   <div class="books" v-if="data.length > 0">
     <div v-on:click="setItem(item)" class="book" v-for="item in data" :key="item.id">
-    <img :src="item?.volumeInfo?.imageLinks?.smallThumbnail " />
-      <h3>{{item?.volumeInfo?.title}}</h3>
-      <author v-for="category in item?.volumeInfo?.categories" :key="category">{{category}}</author>
-      <span v-for="author in item?.volumeInfo?.authors" :key="author">
-        <li>{{author}}</li>
-      </span>
+      <img :src="item?.enclosures[0]?.url" />
+      <h3>{{item?.title}}</h3>  
+      <span>{{item?.category}}</span>
     </div>  
   </div>
   <div v-else>
-    <h2>aa</h2>
+    <h2>Нету новостей(</h2>
   </div>
 
 </template>
 
 <script>
-import axios from 'axios';
-import test from './test.json';
+
+import { parse } from 'rss-to-json'
+
 
 export default {
   name: 'App',
   data() {
     return {
-      API_KEY: 'AIzaSyAJodG-YJeqQDql5VG2XW61LhhaKTVlwyU',
       loading: true,
       errored: false,
       search: null,
-      data: test.items,
+      data: null,
       item: null,
     };
   },
   methods: {
-    call: function(){
-      // console.log(this.search)
-      axios.get(`https://www.googleapis.com/books/v1/volumes?q=${this.search}+inauthor:keyes&key=${this.API_KEY}`).then(data => {
-        this.data = data.data.items
+    call:async  function(){
+      await parse("https://lenta.ru/rss").then(res => {
+      let arr = []
+      let length = 0
+      res.items.map(y => {
+        if (length <= 20) {
+          arr.push(y)
+          length++
+        }
       })
+      this.data = arr
+    }).finally(() => this.loading = false)
     },
     setItem(item){
       this.item = item
